@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3tkzxT3Rpwcb9Ca3Nr5Qb8q1vSsZqKA/CaOQWr7tJ2e4Anb78Y+ejKAx7WFuJrYaZmhAmII7pTeDGL4vUl556g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasar.sekerci\\source\\repos\\dockerdeneme\\dockerdeneme\\dockerdeneme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasar.sekerci\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
