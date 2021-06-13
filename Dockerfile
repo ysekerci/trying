@@ -8,7 +8,7 @@ EXPOSE 443
 FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
 WORKDIR /src
 COPY ["dockerdeneme.csproj", ""]
-RUN dotnet restore "dockerdeneme/dockerdeneme.csproj"
+RUN dotnet restore "./dockerdeneme.csproj"
 COPY . .
 WORKDIR "/src/."
 RUN dotnet build "dockerdeneme.csproj" -c Release -o /app/build
