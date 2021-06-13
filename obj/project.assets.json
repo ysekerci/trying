@@ -103,11 +103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yasar.sekerci\\source\\repos\\dockerdeneme\\dockerdeneme\\dockerdeneme.csproj",
+      "projectUniqueName": "C:\\try\\trying\\dockerdeneme.csproj",
       "projectName": "dockerdeneme",
-      "projectPath": "C:\\Users\\yasar.sekerci\\source\\repos\\dockerdeneme\\dockerdeneme\\dockerdeneme.csproj",
+      "projectPath": "C:\\try\\trying\\dockerdeneme.csproj",
       "packagesPath": "C:\\Users\\yasar.sekerci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yasar.sekerci\\source\\repos\\dockerdeneme\\dockerdeneme\\obj\\",
+      "outputPath": "C:\\try\\trying\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yasar.sekerci\\AppData\\Roaming\\NuGet\\NuGet.Config",
